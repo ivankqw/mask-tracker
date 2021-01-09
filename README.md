@@ -10,7 +10,7 @@ Given the current COVID-19 situation, it is of utmost importance that citizens a
 
 `/help` for information on additional commands
 
-###Additional Commands 
+### Additional Commands 
 `/editname` old_name new_name to change the name of your mask.
 
 `/editcurrent` mask_name current_washes can be used to change the number of times the mask has been washed.
