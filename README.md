@@ -20,7 +20,9 @@ Given the current COVID-19 situation, it is of utmost importance that citizens a
 ## How we built it
 Using [Telegram API](https://core.telegram.org/bots/api), we generated a token from **@BotFather**. For the code, it is mostly based on CommandHandler, Message Handler, ReplyKeyboardMarkup. 
 
-##Built by 
+## Built by 
 **Han Xiao Guang** xghan99@gmail.com 
+
 **Koh Quan Wei Ivan** ivankohquanwei@gmail.com 
+
 _for Hack and Roll 2021_ 
